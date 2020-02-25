@@ -1,3 +1,5 @@
+# Modified for arm64 (Odroid C2) docker install (elrond-docker)
+
 # Elrond Node Deploy Scripts V2
 
 ## INTRODUCTION
